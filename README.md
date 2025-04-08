@@ -66,6 +66,6 @@ src/
 
 ## 🧑‍💻 Autor
 
-Desenvolvido por [Seu Nome](https://github.com/VitorAguiiar) ✌️
+Desenvolvido por [(https://github.com/VitorAguiiar)] ✌️
 
 ---
