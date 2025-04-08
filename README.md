@@ -21,7 +21,7 @@ Este é um projeto em React que consome a API pública do Art Institute of Chica
 
 2. Acesse a pasta do projeto:
    ```bash
-   cd nome-do-projeto
+   cd consumo-api
    ```
 
 3. Instale as dependências:
