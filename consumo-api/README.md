@@ -1,4 +1,4 @@
-# 🖼️ Artworks Gallery App
+# 🖼️ Galeria de Obras De Arte
 
 Este é um projeto em React que consome a API pública do Art Institute of Chicago para exibir obras de arte. A aplicação garante que seja exibida no máximo **uma obra por artista** por página.
 
