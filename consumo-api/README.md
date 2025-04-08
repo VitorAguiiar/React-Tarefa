@@ -16,7 +16,7 @@ Este é um projeto em React que consome a API pública do Art Institute of Chica
 
 1. Clone o repositório:
    ```bash
-   git clone 
+   git clone https://github.com/VitorAguiiar/React-Tarefa.git
    ```
 
 2. Acesse a pasta do projeto:
@@ -66,6 +66,6 @@ src/
 
 ## 🧑‍💻 Autor
 
-Desenvolvido por [Seu Nome](https://github.com/VitorAguiiar) ✌️
+Desenvolvido por (https://github.com/VitorAguiiar) ✌️
 
 ---
